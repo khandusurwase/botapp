@@ -1,0 +1,36 @@
+[2025-09-30 16:01:55] INFO: Chat Bot Started
+[2025-09-30 16:01:55] INFO: File document Fetching: faq.txt
+[2025-09-30 16:01:55] INFO: Text document loading Successfull
+[2025-09-30 16:01:55] INFO: Document Splitting Startec
+[2025-09-30 16:01:55] INFO: Document Splitting into chunks completed
+[2025-09-30 16:01:55] INFO: Document emmbedding with OpenAIEmbeddings begin
+[2025-09-30 16:01:56] INFO: Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+[2025-09-30 16:01:59] INFO: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-09-30 16:01:59] INFO: Embedding completed
+[2025-09-30 16:01:59] INFO: chat bot Started
+[2025-09-30 16:02:13] INFO: query in chat bot initialized
+[2025-09-30 16:02:14] INFO: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-09-30 16:02:16] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:02:16] INFO: query result fetched
+[2025-09-30 16:02:16] INFO: query result printed successfully
+[2025-09-30 16:02:32] INFO: query in chat bot initialized
+[2025-09-30 16:02:33] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:02:34] INFO: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-09-30 16:02:36] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:02:36] INFO: query result fetched
+[2025-09-30 16:02:36] INFO: query result printed successfully
+[2025-09-30 16:03:08] INFO: query in chat bot initialized
+[2025-09-30 16:03:10] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:03:11] INFO: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-09-30 16:03:12] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:03:12] INFO: query result fetched
+[2025-09-30 16:03:12] INFO: query result printed successfully
+[2025-09-30 16:03:28] INFO: query in chat bot initialized
+[2025-09-30 16:03:29] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:03:30] INFO: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-09-30 16:03:31] INFO: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-09-30 16:03:31] INFO: query result fetched
+[2025-09-30 16:03:31] INFO: query result printed successfully
+[2025-09-30 16:03:41] INFO: query in chat bot initialized
+[2025-09-30 16:03:41] INFO: quiting the app
+[2025-09-30 16:03:41] INFO: Execution completed
